@@ -1,7 +1,7 @@
  <div align="center">
-  Olá, me chamo Alexsandro Martins, sou desenvolvedor Front-end.
+  Hi, I'am Alexsandro Martins Web Developer.
   <hr>
-  <hp>Habilidades:</p>
+  <hp>Skills:</p>
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -17,8 +17,8 @@
   </div>
   <br>
   <div>
-  <h2>Contato</h2>
-  <p>Você pode entrar em contato comigo nas seguintes redes sociais:</p>
+  <h2>Contact</h2>
+  <p>You can contact me on the following social networks:</p>
   <!--  Instagram  -->
   <a href="https://www.instagram.com/alexsandrom.s">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
