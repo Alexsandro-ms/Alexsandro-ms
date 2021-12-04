@@ -1,5 +1,5 @@
  <div align="center">
-  Hi, I'am Alexsandro Martins Web Developer.
+  Olá! Seja bem vindo, ao meu portfólio.
   <hr>
   <hp>Skills:</p>
   <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   <br>
   <div>
   <h2>Contact</h2>
-  <p>You can contact me on the following social networks:</p>
+  <p>Você pode entrar em contato comigo, por as seguintes redes sociais: </p>
   <!--  Instagram  -->
   <a href="https://www.instagram.com/alexsandrom.s">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
