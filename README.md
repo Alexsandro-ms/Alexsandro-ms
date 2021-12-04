@@ -1,5 +1,5 @@
  <div align="center">
-  Olá! Seja bem vindo, ao meu portfólio.
+  Olá! Seja bem vindo, ao meu perfil.
   <hr>
   <hp>Skills:</p>
   <div style="display: inline_block"><br>
