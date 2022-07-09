@@ -19,6 +19,7 @@
   <div>
   <h2>Contact</h2>
   <p>Você pode entrar em contato comigo, por as seguintes redes sociais: </p>
+   <br/>
   <!--  Instagram  -->
   <a href="https://www.instagram.com/alexsandrom.s">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
