@@ -32,8 +32,8 @@
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
   <!--  E-mail  -->
-  <a href="mailto:alexsandromart2002@gmail.com">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
+  <a href="mailto:alexsandromartins.santos@hotmail.com">
+  <img src="https://img.shields.io/badge/Hotmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
   </a>
   </div>
   </div>
