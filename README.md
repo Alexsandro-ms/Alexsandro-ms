@@ -27,10 +27,6 @@
   <a href="https://www.linkedin.com/in/alexsandro-martins-b985551ba">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <!-- Twitter  -->
-  <a href="https://www.twitter.com/AlexsandroM_S">
-   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>
   <!--  E-mail  -->
   <a href="mailto:alexsandromartins.santos@hotmail.com">
   <img src="https://img.shields.io/badge/Hotmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
