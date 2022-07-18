@@ -25,7 +25,7 @@
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <!--  Likedin  -->
-  <a href="https://www.linkedin.com/in/alexsandro-martins-b985551ba">
+  <a href="https://https://www.linkedin.com/in/alexsandromartiins/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <!--  E-mail  -->
