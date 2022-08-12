@@ -12,8 +12,8 @@
   <!-- Github Stats -->
   <div>
   <a href="https://github.com/alexsandro-ms">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexsandro-ms&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-ms&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alexsandro-ms&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-ms&layout=compact&langs_count=7&theme=gotham"/>
   </div>
   <br>
   <div>
@@ -30,7 +30,7 @@
   </a>
   <!--  E-mail  -->
   <a href="mailto:alexsandromartins.santos@hotmail.com">
-  <img src="https://img.shields.io/badge/Hotmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" >
   </a>
   </div>
   </div>
