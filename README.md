@@ -18,8 +18,8 @@
   </div>
   <br>
   <div>
-  <h2>Contact</h2>
-  <p>Você pode entrar em contato comigo, por as seguintes redes sociais: </p>
+  <h2>Contato</h2>
+  <p>Você pode entrar em contato comigo, pelas seguintes redes sociais: </p>
    <br/>
   <!--  Instagram  -->
   <a href="https://www.instagram.com/alexsandrom.s">
