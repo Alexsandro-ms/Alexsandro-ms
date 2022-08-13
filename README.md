@@ -22,7 +22,7 @@
   <br>
   <div>
   <h2>Contato</h2>
-  <p>Você pode entrar em contato comigo, pelas seguintes redes sociais: </p>
+  <p>Entre em Contato, através das seguintes formas: </p>
    <br/>
   <!--  Instagram  -->
   <a href="https://www.instagram.com/alexsandrom.s">
