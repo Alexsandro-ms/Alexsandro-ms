@@ -21,8 +21,13 @@
    </div>
   <br>
   <div>
- ### Entre em Contato, Através das Seguintes Formas:
+   
+   ### Entre em Contato, Através das Seguintes Formas:
+   
+   <hr >
+   
    <br/>
+   
   <!--  Instagram  -->
   <a href="https://www.instagram.com/alexsandrom.s">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
