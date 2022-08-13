@@ -21,8 +21,7 @@
    </div>
   <br>
   <div>
-  <h2>Contato</h2>
-  <p>Entre em Contato, através das seguintes formas: </p>
+ ### Entre em Contato, Através das Seguintes Formas:
    <br/>
   <!--  Instagram  -->
   <a href="https://www.instagram.com/alexsandrom.s">
