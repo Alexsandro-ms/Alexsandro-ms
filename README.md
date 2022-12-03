@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Web</h3>
 <br>
 
-- 👨‍🏫 Atualmente tenho domínio **React, Javascript, Html e Css**
+- 👨‍🏫 Tenho domínio em **React, Javascript, Html e Css**
  
 - 🌱 Atualmente estou aprendendo **Node,Typescript, Mongodb e Mysql**
 
