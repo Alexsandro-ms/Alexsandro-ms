@@ -12,14 +12,14 @@
 
 <div align="center">
   <a href="https://github.com/alexsandro-ms">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alexsandro-ms&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alexsandroms&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
    <br />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-ms&layout=compact&langs_count=7&theme=gotham"/>
   </div>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexsandromartiins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexsandromartiins" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexsandromartiins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexsandro Martins" height="30" width="40" /></a>
 <a href="https://instagram.com/alexsandrom.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexsandrom.s" height="30" width="40" /></a>
 </p>
 
