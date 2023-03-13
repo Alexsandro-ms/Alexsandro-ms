@@ -1,6 +1,6 @@
  
  <h2 align="center">Olá 👋,sou Alexsandro Martins</h2>
-<h3 align="center">Desenvolvedor Web</h3>
+<h3 align="center">Desenvolvedor Fullstack</h3>
 <br>
 
 - 👨‍🏫 Tenho domínio em **React, React Native, Node, Sequelize, Javascript, Html e Css**
