@@ -3,8 +3,8 @@
 <h3 align="center">Desenvolvedor Web</h3>
 <br>
 
-- 👨‍🏫 Tenho domínio em **React, Javascript, Html e Css**
-- 🌱 Atualmente estou aprendendo **Node, Typescript, Mongodb e Mysql**
+- 👨‍🏫 Tenho domínio em **React, React Native, Node, Sequelize, Javascript, Html e Css**
+- 🌱 Atualmente estou aprendendo **Jest, Docker, Typescript, Postgress**
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Alexsandro-ms?tab=repositories](https://github.com/Alexsandro-ms?tab=repositories)
 - 📝 Escrevo sobre alguns de meus projetos e experiências em [https://www.linkedin.com/in/alexsandromartiins/](https://www.linkedin.com/in/alexsandromartiins/)
 - 🗣 Entre em contato comigo **alexsandromartins.santos@hotmail.com**
