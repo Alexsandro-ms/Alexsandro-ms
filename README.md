@@ -5,8 +5,8 @@
 
 - 👨‍🏫 Tenho domínio em **React, React Native, Node, Sequelize, Javascript, Html e Css**
 - 🌱 Atualmente estou aprendendo **Jest, Docker, Typescript e Postgress**
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Alexsandro-ms?tab=repositories](https://github.com/Alexsandro-ms?tab=repositories)
-- 📝 Escrevo sobre alguns de meus projetos e experiências em [https://www.linkedin.com/in/alexsandromartiins/](https://www.linkedin.com/in/alexsandromartiins/)
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui [ver todos os projetos](https://github.com/Alexsandro-ms?tab=repositories)
+- 📝 Escrevo sobre alguns de meus projetos e experiências em [ir para linkedin](https://www.linkedin.com/in/alexsandromartiins/)
 - 🗣 Entre em contato comigo **alexsandromartins.santos@hotmail.com**
 <br>
 
